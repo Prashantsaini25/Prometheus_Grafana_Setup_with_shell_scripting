@@ -16,3 +16,14 @@
 Prometheus, in Greek religion, one of the Titans, the supreme trickster, and a god of fire. His intellectual side was emphasized by the apparent meaning of his name, Forethinker. In common belief he developed into a master craftsman, and in this connection he was associated with fire and the creation of mortals.
 
  ---
+
+
+ <p>
+  <img width="250" align='left' src="https://github.com/Prashantsaini25/Prometheus_Grafana_Setup_with_shell_scripting/blob/main/png/grafana_logo.png?raw=true">
+</p>
+ 
+### Grafana
+
+Grafana is a free and open source (FOSS/OSS) visualization tool that can be used on top of a variety of different data stores but is most commonly used together with Graphite, InfluxDB, Prometheus, and Elasticsearch
+
+ ---
