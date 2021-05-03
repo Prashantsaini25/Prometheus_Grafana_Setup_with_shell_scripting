@@ -47,3 +47,8 @@ NGINX is open source software for web serving, reverse proxying, caching, load b
 NA Bash script is a text file containing a series of commands. Any command that can be executed in the terminal can be put into a Bash script. Any series of commands to be executed in the terminal can be written in a text file, in that order, as a Bash script
 
  ---
+
+
+For Setup All in one command 
+
+$ ./setup_file.sh
