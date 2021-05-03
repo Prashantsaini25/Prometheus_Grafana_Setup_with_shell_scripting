@@ -49,11 +49,9 @@ NA Bash script is a text file containing a series of commands. Any command that 
  ---
 
 
-For Setup All in one command 
-
 ## Usage
 
-#### 1. Clone the repository
+#### 1. Setup All Tools in single command
 ```bash
 $ ./setup_file.sh
 ```
