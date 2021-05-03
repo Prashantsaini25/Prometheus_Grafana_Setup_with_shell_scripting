@@ -39,7 +39,7 @@ NGINX is open source software for web serving, reverse proxying, caching, load b
  ---
 
  <p>
-  <img width="250" align='left' src="hhttps://github.com/Prashantsaini25/Prometheus_Grafana_Setup_with_shell_scripting/blob/main/png/Bash_Shell.png?raw=true">
+  <img width="250" align='left' src="https://github.com/Prashantsaini25/Prometheus_Grafana_Setup_with_shell_scripting/blob/main/png/Bash_Shell.png?raw=true">
 </p>
  
 ### Bash Scripting 
