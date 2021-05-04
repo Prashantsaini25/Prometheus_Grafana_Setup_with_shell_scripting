@@ -51,7 +51,7 @@ NA Bash script is a text file containing a series of commands. Any command that 
 
 ## Usage
 
-#### 1. Setup All Tools in single command
+#### 1. Setup All Tools in single command (copy this setup_file.sh same file in your Ubuntu linux and run)
 ```bash
 $ ./setup_file.sh
 ```
