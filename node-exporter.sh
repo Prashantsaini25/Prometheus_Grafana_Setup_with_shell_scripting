@@ -40,4 +40,4 @@ scrape_configs:
       - targets: ['localhost:9100']
 EOF
 sudo systemctl restart prometheus
-sudo systemctl status node_exporter
+#sudo systemctl status node_exporter
