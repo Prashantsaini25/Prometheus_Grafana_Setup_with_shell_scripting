@@ -49,4 +49,4 @@ EOF
 sudo systemctl daemon-reload
 sudo systemctl start prometheus
 sudo systemctl enable prometheus
-sudo systemctl status prometheus
+#sudo systemctl status prometheus
